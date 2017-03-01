@@ -1,4 +1,4 @@
-# imooc-echarts
+# imooc-echarts（慕课网学习Echarts材料）
 imooc的ECharts入门教程
 
 * 浏览器画图原理
