@@ -1,4 +1,4 @@
-# imooc-echarts（慕课网学习Echarts材料）
+# imooc-echarts（慕课网学习Echarts材料，点击[链接](http://www.imooc.com/learn/687)学习）
 imooc的ECharts入门教程
 
 * 浏览器画图原理
